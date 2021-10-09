@@ -1,0 +1,245 @@
+.intro{
+	background:url(../img/a.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover
+}
+.navbar-text  h1{
+	padding: 334px 0px 354px 0px;
+	color:white;
+	font-size:48px;
+	line-height:75px
+}
+.navbar-text  span{
+	font-weight:700;
+	color:white;
+}
+.navbar-default {
+    border:none;
+	background:transparent;
+	padding-top:0px
+}
+.navbar-brand  img{
+
+	width: 85%;
+
+
+
+
+}
+.navbar-collapse ul{
+	
+	color:white;
+	text-transform:uppercase;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+.nav li a:hover{
+border-bottom:2px solid white;
+color:white
+}
+
+element {
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: white;
+    background-color: transparent;
+}
+.intro{position:relative}
+.intro-position{
+	position:absolute;
+	top: 750px;
+margin: 0 auto;
+right:5%;
+left: 5%;
+	
+	}
+.position-site{
+	background:white;
+	
+	
+	}
+
+.position-site img{
+	padding-top:70px;
+	padding-bottom:40px;
+	
+	
+	
+}
+.position-site  p{
+	padding:50px 0px 57px 0px;
+	
+	
+	
+}
+.position-site a{
+	
+	
+	
+	
+}
+.same-text p{
+	color: #cccc;
+display: inline-block;
+border: 2px solid #cccccc;
+padding: 7px 30px;
+border-radius: 19px;
+margin-bottom: 52px;
+}
+.hello-text h1{
+	padding-top:542px;
+	
+	
+}
+.hello-img img{
+	padding-top:542px;
+	width: 100%;
+	padding-bottom:70px
+}
+.hello{
+	background:#f5f5f5;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    padding: 20px 31px 20px 31px;
+}
+.Solutions-one p{
+	font-size:18px;
+	padding: 32px 0px 65px 0px;
+	color:#a7a7a7
+	
+}
+#Solutions{background:#f5f5f5}
+.Solutions-text-down{
+	padding-bottom: 165px;
+}
+.what-people-one h1{
+	padding:90px 0px 110px 0px;
+	color:blue;
+}
+.what-people-one p{
+	font-size:18px;
+	padding: 0px 30px;
+	color:#a7a7a7
+}
+.what-people-one h4{
+	padding:54px 30px 70px 30px;
+}
+.what-people-img img{width: 121%;}
+.what-people-one i{font-size: 29px;
+color: #cccccc;}
+.same-text-one p{color: #cccc;
+display: inline-block;
+border: 2px solid #cccccc;
+padding: 7px 30px;
+border-radius: 19px;
+margin-bottom: 52px;margin-right: 70px;}
+.news-events-one{
+	
+}
+.news-events-one h3{
+	display: block;
+float: right;
+margin-top: -62px;
+margin-left: 107px;
+font-weight: 700;
+font-size: 21px;
+}
+.news-events-one p{
+font-size: 50px;
+line-height: 22px;
+color:#cccccc;
+
+}
+.main-news{
+	background:#f5f5f5;
+}
+
+.news-events-one span{
+	color:#cccccc;
+	font-size:17px
+}
+.footer{
+	background:url(../img/overly.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+.footer-top i{
+	font-size: 40px;
+display: inline-block;
+border: 2px solid white;
+padding: 12px 22px;
+border-radius: 41px;
+color: white;
+margin:118px 0px 25px 0px;
+}
+.footer-events i{
+font-size: 32px;
+display: inline-block;
+border: 2px solid white;
+padding: 12px 15px;
+border-radius: 41px;
+color: white;
+margin:118px 0px 25px 0px;
+}
+.footer-events p{
+color:white;
+}
+.footer-top p{
+
+color: white;
+}
+.footer-top-icon i{
+font-size: 33px;
+display: inline-block;
+border: 2px solid white;
+padding: 12px 21px;
+border-radius: 41px;
+color: white;
+margin: 118px 0px 25px 0px;
+}
+.footer-top-icon p{
+
+color: white;
+}
+.footer-icon i{
+	padding:128px 20px 102px 20px;
+	color:white;
+	font-size:30px
+}
+p{font-family: 'Raleway', sans-serif;}
+h1{font-family: 'Raleway', sans-serif;font-weight:500}
+.same-text p:hover{
+	background:blue;
+	color:white;
+	box-shadow: 0px 0px 8px blue;
+	border:1px solid blue;
+}
+.same-text-one p:hover{
+	background:blue;
+	color:white;
+	box-shadow: 0px 0px 8px blue;
+	border:1px solid blue;
+}
+.menu-bg{
+	background:red;
+	padding-top:10px;
+	transition:.5s;
+   
+	
+}
+.menu-bg img{
+    width: 118px
+}
+
+
+
+
+
+
+
+
+ 

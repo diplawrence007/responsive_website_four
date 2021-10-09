@@ -1,0 +1,28 @@
+/* Default Layout:992px */
+
+
+/* Tablet Layout:768px */
+@media only screen and (min-width: 768px) and (max-width:991px) {
+
+
+
+	
+}
+/* Wide Mobile Layout:320px */
+@media only screen and (min-width: 320px) and (max-width:767px) {
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    background: beige;
+}
+.hello-text{padding-top: 767px;}
+.hello-img img{margin-top: -555px;}
+}
+/* Wide Mobile Layout:480px */
+@media only screen and (min-width: 280px) and (max-width:767px) {
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+background: beige;}
+
+.hello-text{padding-top: 767px;}
+.hello-img img{margin-top: -555px;}
+}
